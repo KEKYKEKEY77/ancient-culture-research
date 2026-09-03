@@ -1,0 +1,4 @@
+interface:
+  display_name: "古代资料与文物采集"
+  short_description: "低成本分级收集、识别和整理古代资料及文物图片数据集"
+  default_prompt: "Use $ancient-culture-research to collect and organize ancient sources and artifact images efficiently."
