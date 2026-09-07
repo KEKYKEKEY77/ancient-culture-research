@@ -1,6 +1,6 @@
 ---
 name: ancient-culture-research
-description: Collect and organize ancient historical materials and artifact images with cost-aware model routing. Use for ancient texts, inscriptions, archaeological objects, museum collections, image datasets, and related research.
+description: 搜图：收集和整理古代文献、碑铭、文物与高清图片。用户以“搜图”简称调用本技能，或提出古代资料及文物图片采集研究任务时使用；按任务难度分级处理以控制成本。
 ---
 
 # Ancient Culture Research
